@@ -1,0 +1,7 @@
+.card img {
+    max-height: 400px auto;
+}
+body {
+  background-image: url('https://png.pngtree.com/background/20211216/original/pngtree-color-block-blotch-watercolor-splash-light-brown-background-picture-image_1526618.jpg');
+  background-size: cover;
+}
